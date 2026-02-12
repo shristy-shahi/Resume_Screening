@@ -1,4 +1,4 @@
-# 📄 Resume Screening App
+# 📄 Resume Screening App 
 
 A machine learning–based **resume classification web app** built with **Streamlit**.  
 Upload a resume in `.pdf` or `.docx` format, and the app will automatically analyze the content and predict the job category.   
